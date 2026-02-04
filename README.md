@@ -1,11 +1,7 @@
-# Git Practice
+# Interesting Article on AI in Software Development
 
-## Article link
+I recently read an article titled ["100% of code at Anthropic and OpenAI is now AI-written"](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-AI-written-boris-cherny-roon/) published by Fortune on January 29, 2026.
 
-[100% of code at Anthropic and OpenAI is now AI-written](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/)
+This article fascinates me because while everybody knows that AI-generated code is being used heavily across the software industry, this article reveals something far more dramatic: leading AI companies have reached 100% AI-written code. There's a significant difference between "using AI assistance for coding" and "all code is AI-written". The latter represents a complete paradigm shift rather than just an incremental improvement in developer productivity. The fact that the organizations building the most sophisticated AI systems have crossed this threshold suggests we're witnessing a fundamental transformation in software development methodology, not just an adoption of helpful tools.
 
-### Why This Interests Me
-
-This article interests me because it represents a fundamental shift in how software development is practiced. The fact that 100% of code at companies like Anthropic and OpenAI is now AI-written means that AI-assisted development tools are not just assisting but completely replacing conventional coding workflows. 
-
-What intrigues me the most is the potential impact this will have on the future of software engineering education. If the companies building the most advanced AI systems are already fully reliant on AI for code generation, it raises important questions about what skills will be most valuable for developers in the coming years. It seems like it's high time for CS education to shift it's emphasis toward system design, prompt engineering, code review, and understanding how to effectively collaborate with AI tools. 
+What strikes me most is the potential impact this has on the future of software engineering education and careers. As a computer science student, this challenges me to think critically about what I'm learning and what skills will actually matter in a few years. If the companies at the cutting edge are already fully reliant on AI for code generation, it raises important questions about whether traditional coding skills will remain relevant, or if the focus should shift entirely toward system design, prompt engineering, architecture decisions, and AI collaboration. 
