@@ -1,6 +1,6 @@
 # Interesting Article on AI in Software Development
 
-["100% of code at Anthropic and OpenAI is now AI-written"](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-AI-written-boris-cherny-roon/) - Fortune, January 29, 2026
+[100% of code at Anthropic and OpenAI is now AI-written](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-AI-written-boris-cherny-roon/)  - Fortune, January 29, 2026
 
 This article fascinates me because while everybody knows that AI-generated code is being used heavily across the software industry, this article reveals something far more dramatic: leading AI companies have reached 100% AI-written code. There's a significant difference between "using AI assistance for coding" and "all code is AI-written". The latter represents a complete paradigm shift rather than just an incremental improvement in developer productivity. The fact that the organizations building the most sophisticated AI systems have crossed this threshold suggests we're witnessing a fundamental transformation in software development methodology, not just an adoption of helpful tools.
 
